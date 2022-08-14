@@ -43,3 +43,6 @@ pm uninstall --user 0 com.safetrekapp.safetrek
 pm uninstall --user 0 com.google.android.apps.handwriting.ime
 pm uninstall --user 0 com.fossil.wearables.watchfaces
 reboot
+
+
+Done!
