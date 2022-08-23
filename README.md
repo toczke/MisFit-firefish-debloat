@@ -51,8 +51,8 @@
 >
 >pm uninstall --user 0 com.amberweather.watch
 >
-pm uninstall --user 0 com.eg.android.AlipayGphone
-
+>pm uninstall --user 0 com.eg.android.AlipayGphone
+>
 >pm uninstall --user 0 ctrip.android.view
 >
 >pm uninstall --user 0 com.gotokeep.androidwear
