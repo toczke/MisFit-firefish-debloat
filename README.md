@@ -1,5 +1,5 @@
 # MisFit-firefish-debloat
-#ADB Script for debloating Misfit Vaport 2 WearOS Smartwatch
+#ADB Script for debloating Misfit Vaport 2 WearOS Smartwatch to not work like a chinesse piece of crap 
 
 >adb connect IP_Address:5555
 >adb shell 
