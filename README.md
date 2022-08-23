@@ -1,11 +1,11 @@
 # MisFit-firefish-debloat
-##ADB Script for debloating Misfit Vaport 2 WearOS Smartwatch
+#ADB Script for debloating Misfit Vaport 2 WearOS Smartwatch
 
 >adb connect IP_Address:5555
 >adb shell 
 >(accept debugging on watch)
 
-pm uninstall --user 0 com.google.android.theme.firefish.ms
+pm uninstall --user 0 com.google.android.theme.firefish.ms </ br>
 pm uninstall --user 0 com.fossil.elabel
 pm uninstall --user 0 com.fossil.oemsetup.firefish
 pm uninstall --user 0 com.fossil.wearables.ms
