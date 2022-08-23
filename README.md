@@ -5,7 +5,7 @@
 >adb shell 
 >(accept debugging on watch)
 
-pm uninstall --user 0 com.google.android.theme.firefish.ms </ br>
+pm uninstall --user 0 com.google.android.theme.firefish.ms 
 pm uninstall --user 0 com.fossil.elabel
 pm uninstall --user 0 com.fossil.oemsetup.firefish
 pm uninstall --user 0 com.fossil.wearables.ms
